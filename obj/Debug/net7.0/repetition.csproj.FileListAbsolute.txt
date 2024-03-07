@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\repetition\bin\Debug\net7.0\repetition.exe
+C:\Users\Admin\Documents\GitHub\repetition\bin\Debug\net7.0\repetition.deps.json
+C:\Users\Admin\Documents\GitHub\repetition\bin\Debug\net7.0\repetition.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\repetition\bin\Debug\net7.0\repetition.dll
+C:\Users\Admin\Documents\GitHub\repetition\bin\Debug\net7.0\repetition.pdb
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.dll
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\refint\repetition.dll
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.pdb
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\repetition.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\repetition\obj\Debug\net7.0\ref\repetition.dll
